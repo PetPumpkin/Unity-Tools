@@ -18,7 +18,7 @@ namespace PetPumpkin
 
     public static class Packages {
  
-        static string manfistGistURL = "https://gist.githubusercontent.com/PetPumpkin/7fece489160a2540d6a8a4fad75e12e0/raw/d61f4f28ab1def63b8199e704789139b25dae6ec/manifest.json";
+        static string manfistGistURL = "https://raw.githubusercontent.com/PetPumpkin/Unity-Tools/main/Pet%20Pumpkin%20Tools/Setup/manifest.json";
 
         [MenuItem("Tools/Setup/Override Package Manifest")]
         public static async void OverridePackageManifest(){
